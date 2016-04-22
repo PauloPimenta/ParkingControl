@@ -1,0 +1,5 @@
+C:\Works\Parking\ParkingUtilitaire\bin\Debug\ParkingUtilitaire.exe
+C:\Works\Parking\ParkingUtilitaire\bin\Debug\ParkingUtilitaire.pdb
+C:\Works\Parking\ParkingUtilitaire\obj\x86\Debug\ParkingUtilitaire.csprojResolveAssemblyReference.cache
+C:\Works\Parking\ParkingUtilitaire\obj\x86\Debug\ParkingUtilitaire.exe
+C:\Works\Parking\ParkingUtilitaire\obj\x86\Debug\ParkingUtilitaire.pdb

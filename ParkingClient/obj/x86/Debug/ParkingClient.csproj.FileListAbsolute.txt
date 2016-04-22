@@ -1,0 +1,1 @@
+C:\Works\Parking\ParkingClient\obj\x86\Debug\ParkingClient.csprojResolveAssemblyReference.cache
